@@ -13,5 +13,14 @@ Stage4: 3D graphs are plotted in .ipynb notebook
 
 Stage5: Pushed real-time data stream to FIREBASE REAL-TIME DATABASE and stored it.
 
+PLOTS:
+
 ![image](https://user-images.githubusercontent.com/56755432/197374160-45f30ec0-c74b-41cf-8cd4-2af2615ad08d.png)
+
+![image](https://user-images.githubusercontent.com/56755432/197374180-3f632e24-9fad-45ac-9d6a-c43b255b0f45.png)
+
+![image](https://user-images.githubusercontent.com/56755432/197374184-e2701f6c-52c8-4f1e-abac-867920a72bac.png)
+
+![image](https://user-images.githubusercontent.com/56755432/197374191-ff625b89-61fe-416d-9276-f08558bbbd6c.png)
+
 

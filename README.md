@@ -12,3 +12,6 @@ Stage3: Pedometer has been implemented without the use of in-built sensor and it
 Stage4: 3D graphs are plotted in .ipynb notebook
 
 Stage5: Pushed real-time data stream to FIREBASE REAL-TIME DATABASE and stored it.
+
+![image](https://user-images.githubusercontent.com/56755432/197374160-45f30ec0-c74b-41cf-8cd4-2af2615ad08d.png)
+
